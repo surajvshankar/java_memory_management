@@ -1,2 +1,4 @@
 # java_memory_management
-Java Memory Management: Values and References (LinkedIn Learning)
+## Java Memory Management (LinkedIn Learning):
+### Values and References 
+### Garbage Collection, JVM Tuning, and Spotting Memory Leaks
